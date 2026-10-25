@@ -1,0 +1,18 @@
+[
+  {"name":"invoice_northwind_october.pdf","category":"Invoices"},
+  {"name":"receipt_stationery_2026.txt","category":"Invoices"},
+  {"name":"счет_склад_октябрь.docx","category":"Invoices"},
+  {"name":"fatura_ekim.pdf","category":"Invoices"},
+  {"name":"consulting_contract_beta.pdf","category":"Agreements"},
+  {"name":"distribution_agreement.docx","category":"Agreements"},
+  {"name":"договор_перевода.txt","category":"Agreements"},
+  {"name":"yangi_shartnoma.docx","category":"Agreements"},
+  {"name":"client_email_followup.txt","category":"Correspondence"},
+  {"name":"letter_confirmation.pdf","category":"Correspondence"},
+  {"name":"письмо_приглашение.docx","category":"Correspondence"},
+  {"name":"supplier_mektup.pdf","category":"Correspondence"},
+  {"name":"weekly_report_support.docx","category":"Reports"},
+  {"name":"отчет_октябрь.pdf","category":"Reports"},
+  {"name":"yillik_hisobot.txt","category":"Reports"},
+  {"name":"satış_raporu.pdf","category":"Reports"}
+]

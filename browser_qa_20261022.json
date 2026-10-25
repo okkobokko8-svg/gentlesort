@@ -1,0 +1,242 @@
+{
+  "browser": "153.0.8010.0",
+  "runtime": "v24.19.0",
+  "dependencies": {
+    "playwright_core": "1.62.1",
+    "sparticuz_chromium": "153.0.0"
+  },
+  "report": "qa_20261022/preview/review.html",
+  "synthetic_only": true,
+  "cases": [
+    {
+      "name": "layout-1280",
+      "passed": true,
+      "title": "GentleSort — review plan",
+      "lang": "en",
+      "viewport": 1280,
+      "scroll_width": 1280,
+      "cards": [
+        {
+          "decision": "review",
+          "name": "holiday_photo.jpg",
+          "width": 932
+        },
+        {
+          "decision": "review",
+          "name": "invoice\\nspoofed.pdf",
+          "width": 932
+        },
+        {
+          "decision": "review",
+          "name": "invoice_contract_report_letter.pdf",
+          "width": 932
+        },
+        {
+          "decision": "review",
+          "name": "qzxv_7799.pdf",
+          "width": 932
+        },
+        {
+          "decision": "suggest",
+          "name": "000001_invoice_october.pdf",
+          "width": 932
+        },
+        {
+          "decision": "suggest",
+          "name": "client_email_followup.txt",
+          "width": 932
+        },
+        {
+          "decision": "suggest",
+          "name": "consulting_contract_beta.docx",
+          "width": 932
+        },
+        {
+          "decision": "suggest",
+          "name": "fatura_ekim.pdf",
+          "width": 932
+        },
+        {
+          "decision": "suggest",
+          "name": "yillik_hisobot.txt",
+          "width": 932
+        },
+        {
+          "decision": "suggest",
+          "name": "счет_склад_октябрь.docx",
+          "width": 932
+        }
+      ],
+      "scripts": 0,
+      "unsafe_elements": 0,
+      "headings": [
+        "Needs review (4)",
+        "Folder suggestions (6)"
+      ],
+      "main_count": 1,
+      "links": [
+        "plan.json",
+        "review.md"
+      ]
+    },
+    {
+      "name": "layout-375",
+      "passed": true,
+      "title": "GentleSort — review plan",
+      "lang": "en",
+      "viewport": 375,
+      "scroll_width": 375,
+      "cards": [
+        {
+          "decision": "review",
+          "name": "holiday_photo.jpg",
+          "width": 343
+        },
+        {
+          "decision": "review",
+          "name": "invoice\\nspoofed.pdf",
+          "width": 343
+        },
+        {
+          "decision": "review",
+          "name": "invoice_contract_report_letter.pdf",
+          "width": 343
+        },
+        {
+          "decision": "review",
+          "name": "qzxv_7799.pdf",
+          "width": 343
+        },
+        {
+          "decision": "suggest",
+          "name": "000001_invoice_october.pdf",
+          "width": 343
+        },
+        {
+          "decision": "suggest",
+          "name": "client_email_followup.txt",
+          "width": 343
+        },
+        {
+          "decision": "suggest",
+          "name": "consulting_contract_beta.docx",
+          "width": 343
+        },
+        {
+          "decision": "suggest",
+          "name": "fatura_ekim.pdf",
+          "width": 343
+        },
+        {
+          "decision": "suggest",
+          "name": "yillik_hisobot.txt",
+          "width": 343
+        },
+        {
+          "decision": "suggest",
+          "name": "счет_склад_октябрь.docx",
+          "width": 343
+        }
+      ],
+      "scripts": 0,
+      "unsafe_elements": 0,
+      "headings": [
+        "Needs review (4)",
+        "Folder suggestions (6)"
+      ],
+      "main_count": 1,
+      "links": [
+        "plan.json",
+        "review.md"
+      ]
+    },
+    {
+      "name": "layout-320",
+      "passed": true,
+      "title": "GentleSort — review plan",
+      "lang": "en",
+      "viewport": 320,
+      "scroll_width": 320,
+      "cards": [
+        {
+          "decision": "review",
+          "name": "holiday_photo.jpg",
+          "width": 288
+        },
+        {
+          "decision": "review",
+          "name": "invoice\\nspoofed.pdf",
+          "width": 288
+        },
+        {
+          "decision": "review",
+          "name": "invoice_contract_report_letter.pdf",
+          "width": 288
+        },
+        {
+          "decision": "review",
+          "name": "qzxv_7799.pdf",
+          "width": 288
+        },
+        {
+          "decision": "suggest",
+          "name": "000001_invoice_october.pdf",
+          "width": 288
+        },
+        {
+          "decision": "suggest",
+          "name": "client_email_followup.txt",
+          "width": 288
+        },
+        {
+          "decision": "suggest",
+          "name": "consulting_contract_beta.docx",
+          "width": 288
+        },
+        {
+          "decision": "suggest",
+          "name": "fatura_ekim.pdf",
+          "width": 288
+        },
+        {
+          "decision": "suggest",
+          "name": "yillik_hisobot.txt",
+          "width": 288
+        },
+        {
+          "decision": "suggest",
+          "name": "счет_склад_октябрь.docx",
+          "width": 288
+        }
+      ],
+      "scripts": 0,
+      "unsafe_elements": 0,
+      "headings": [
+        "Needs review (4)",
+        "Folder suggestions (6)"
+      ],
+      "main_count": 1,
+      "links": [
+        "plan.json",
+        "review.md"
+      ]
+    },
+    {
+      "name": "keyboard-and-sibling-links",
+      "passed": true,
+      "focus": {
+        "outlineStyle": "solid",
+        "outlineWidth": "3px"
+      }
+    }
+  ],
+  "network_requests": [],
+  "errors": [],
+  "screenshots_saved": true,
+  "report_sha256_unchanged": {
+    "review.html": "780c0335d9bdef695599e2e5b990116084a2a23c130a0df97464bf20afb13309",
+    "plan.json": "150847aa46957e10537ec4142b708458343d0945d2ce2a5dc5bf63d183e7ac18",
+    "review.md": "335aa51a11040f6815f6e8450a49c5453cb419140b05f16b18af0df6853f9762"
+  },
+  "passed": true
+}
